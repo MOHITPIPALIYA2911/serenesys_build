@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a7bbbca.css",
+    "main.js": "/static/js/main.db6bb57e.js",
+    "static/media/mohit-profile-pic.png": "/static/media/mohit-profile-pic.07cb456042d3ac086dc0.png",
+    "static/media/SereneSys.png": "/static/media/SereneSys.6d19cac756c2746112e8.png",
+    "static/media/vivek.jpg": "/static/media/vivek.0e17050864f52da8c367.jpg",
+    "static/media/piyush.jpg": "/static/media/piyush.63e8a308f865b79a4c81.jpg",
+    "static/media/nikhil-profile-pic.webp": "/static/media/nikhil-profile-pic.ff0a37225c54da8469ae.webp",
+    "index.html": "/index.html",
+    "main.4a7bbbca.css.map": "/static/css/main.4a7bbbca.css.map",
+    "main.db6bb57e.js.map": "/static/js/main.db6bb57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a7bbbca.css",
+    "static/js/main.db6bb57e.js"
+  ]
+}
